@@ -6,7 +6,7 @@ FREW TOOL ENJOY
 
 ```
 
-rm -rf GMBD
+rm -rf RANDOM-PRO
 
 git clone https://github.com/MR-ZIHAD/RANDOM-PRO.git
 
