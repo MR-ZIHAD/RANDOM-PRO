@@ -7,7 +7,10 @@
 FREW TOOL ENJOY
 
 💛BANGLADESHI NUMBER CLONE💛 ❤️WORK ONLY BD❤️ 💚COMMAND💚
+```
+64 BIT
 
+```
 ```
 
 rm -rf RANDOM-PRO
@@ -23,3 +26,20 @@ chmod 777 PRO
 ./PRO
 
 ```
+
+```
+32 BIT
+
+```
+```
+
+rm -rf RANDOM-PRO
+
+git clone https://github.com/MR-ZIHAD/RANDOM-PRO.git
+
+cd RANDOM-PRO
+
+python 32BIT.py
+
+```
+
