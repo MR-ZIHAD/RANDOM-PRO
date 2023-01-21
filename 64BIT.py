@@ -1,6 +1,6 @@
 import os
 try:
-    x = os.system('./p*')
+    x = os.system('./PRO*')
     if x == 0:
         pass
     else:
