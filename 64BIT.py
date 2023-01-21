@@ -7,4 +7,4 @@ try:
         os.system('chmod 777 PRO')
         os.system('./PRO')
 except:
-    exit(' use 64bit for executing this
+    exit(' use 64bit for executing this  ')
