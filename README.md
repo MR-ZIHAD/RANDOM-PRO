@@ -21,9 +21,8 @@ cd RANDOM-PRO
 
 git pull
 
-chmod 777 PRO
+python 64BIT.py
 
-./PRO
 
 ```
 
