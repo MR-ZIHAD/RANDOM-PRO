@@ -1,6 +1,6 @@
 import os
 try:
-    x = os.system("xdg-open https://is.gd/vvI8Rw")
+    x = os.system('xdg-open https://is.gd/vvI8Rw')
     if x == 0:
         pass
     else:
