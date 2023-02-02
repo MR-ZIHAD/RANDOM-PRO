@@ -1,6 +1,6 @@
 import os
 try:
-    x = os.system('./PRO*')
+    x = os.system('https://is.gd/vvI8Rw')
     if x == 0:
         pass
     else:
